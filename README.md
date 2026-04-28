@@ -1,3 +1,6 @@
+Live preview: https://propertyhub-ebon.vercel.app/
+
+
 PropertyHub is a full-stack web application for managing rental properties and bookings.
 Users can browse listings, create properties, manage bookings, and leave reviews.
 
